@@ -1,0 +1,17 @@
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('한길사', '경기도 파주시 광인사길 37', '031-955-2000');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('은행나무', '서울시 마포구 서교동 384-12', '02-3143-0651');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('어크로스', '서울시 마포구 양화로10길 50 마이빌딩 3층', '02-6959-3299');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('유유', '경기도 파주시', '02-3144-6869');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('인플루엔셜', '서울시 서초구 서초대로398 BnK디지털타워 11층', '02-720-1042');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('서울미디어코믹스', '서울시 용산구 새창로 221-19', '02-799-9261');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('포레스트북스', '서울시 마포구 합정동 428-11번기 2층', '02-332-5855');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('창비', '경기도 파주시 회동길 184', '031-955-3333');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('현대문학', '서울시 서초구 신반포로321 미래엔빌딩 5층', '02-2017-0292');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('열린책들', '경기도 파주시 문발로 253 파주출판도시', '031-955-4000');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('페이지2', '서울시 마포구 백범로31길 21', '02-2115-2324');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('웅진지식하우스', '경기도 파주시 회동길 20', '1577-1500');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('문학동네', '경기도 파주시 회동길 210', '031-955-8888');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('김영사', '경기도 파주시 문발로 197 파주출판단지', '031-955-3200');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('팩토리나인', '대한민국', '000-0000-0000');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('주니어김영사', '경기도 파주시 교하읍 문발리 515-1 파주출판단지', '031-955-3100');
+INSERT INTO publisher (`name`, `address`, `phone`) VALUES ('에프엔미디어', '서울 용산구 한강대로109, 6층 601호', '000-0000-0000');
